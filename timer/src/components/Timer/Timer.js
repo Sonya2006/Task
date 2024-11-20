@@ -171,3 +171,4 @@ Timer.propTypes = {
 };
 
 export default Timer;
+/**/
