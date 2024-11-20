@@ -92,6 +92,7 @@
     transform: translateY(0);
 }
 
+
 @media (max-width: 480px) {
     .timer-buttons {
         flex-direction: column;
