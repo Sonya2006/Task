@@ -29,7 +29,7 @@
 
 .timer-input:focus {
     outline: none;
-    border-color: #2a872d;
+    border-color: #4caf50;
     box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2);
 }
 
@@ -62,7 +62,7 @@
 }
 
 .btn-start {
-    background-color: #2a872d;
+    background-color: #4caf50;
 }
 
 .btn-start:hover:not(:disabled) {
