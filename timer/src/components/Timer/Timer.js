@@ -111,7 +111,7 @@ const Timer = ({
                 {error && <div className="error-message">{error}</div>}
             </div>
             <TimerDisplay time={time} />
-            {hasEnded && <div className="timer-ended">Час вийшов!</div>}
+            {hasEnded && <div className="timer-ended">Час закінчився!</div>}
             <div className="timer-buttons">
                 {!isPaused && (
                     <button
