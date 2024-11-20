@@ -16,6 +16,7 @@
     transform: scale(1.02);
 }
 
+
 @media (max-width: 480px) {
     .timer-display {
         font-size: 2rem;
